@@ -156,7 +156,7 @@ const dataSciences = [
   {
     "Nom": "Malburny",
     "Prénom": "Aaron",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Aaron Malburny - index.html",
+    "Site web": "",
     "StoryBoard 1": "https://drive.google.com/file/d/19OQDWzeR-5Xx6wjkwunb1xbCX6OAE_ZE/view?usp=sharing"
   },
   {
