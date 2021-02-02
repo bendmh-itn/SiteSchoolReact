@@ -7,6 +7,20 @@
   pointer-events: none;
 }
 
+.containerFlex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.elementFlexible {
+  flex-basis : 500px;
+  flex-grow : 1;
+}
+
+img {
+  width: 100%;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
