@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/SiteSchoolReact/static/css/main.2e823ca8.chunk.css",
-    "main.js": "/SiteSchoolReact/static/js/main.a48bc9a5.chunk.js",
-    "main.js.map": "/SiteSchoolReact/static/js/main.a48bc9a5.chunk.js.map",
+    "main.css": "/SiteSchoolReact/static/css/main.843313e0.chunk.css",
+    "main.js": "/SiteSchoolReact/static/js/main.7518cd82.chunk.js",
+    "main.js.map": "/SiteSchoolReact/static/js/main.7518cd82.chunk.js.map",
     "runtime-main.js": "/SiteSchoolReact/static/js/runtime-main.f2843427.js",
     "runtime-main.js.map": "/SiteSchoolReact/static/js/runtime-main.f2843427.js.map",
     "static/js/2.ab6b8015.chunk.js": "/SiteSchoolReact/static/js/2.ab6b8015.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.b2389ffa.chunk.js": "/SiteSchoolReact/static/js/3.b2389ffa.chunk.js",
     "static/js/3.b2389ffa.chunk.js.map": "/SiteSchoolReact/static/js/3.b2389ffa.chunk.js.map",
     "index.html": "/SiteSchoolReact/index.html",
-    "static/css/main.2e823ca8.chunk.css.map": "/SiteSchoolReact/static/css/main.2e823ca8.chunk.css.map",
+    "static/css/main.843313e0.chunk.css.map": "/SiteSchoolReact/static/css/main.843313e0.chunk.css.map",
     "static/js/2.ab6b8015.chunk.js.LICENSE.txt": "/SiteSchoolReact/static/js/2.ab6b8015.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f2843427.js",
     "static/js/2.ab6b8015.chunk.js",
-    "static/css/main.2e823ca8.chunk.css",
-    "static/js/main.a48bc9a5.chunk.js"
+    "static/css/main.843313e0.chunk.css",
+    "static/js/main.7518cd82.chunk.js"
   ]
 }
