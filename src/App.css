@@ -17,8 +17,20 @@
   flex-grow : 1;
 }
 
-img {
-  width: 100%;
+@media screen and (max-width: 640px) {
+  img {
+    width : 100%
+  }
+}
+
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+  background-color: #282c34;
+}
+
+
+#carouselExampleControls{
+  text-align: center;
 }
 
 @media (prefers-reduced-motion: no-preference) {

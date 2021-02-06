@@ -162,13 +162,13 @@ const dataSciences = [
   {
     "Nom": "Robat",
     "Prénom": "Alexandre",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Alexandre Robat - index.html",
+    "Site web": "",
     "StoryBoard 1": "https://drive.google.com/file/d/1t0eQz-7PfByj8vZIzSaJ8aSH7xTaGmEc/view?usp=sharing"
   },
   {
     "Nom": "Byloos",
     "Prénom": "Gabriel",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Gabriel Byloos - index.html",
+    "Site web": "",
     "StoryBoard 1": "https://drive.google.com/file/d/1pECqVQIHY-Sclwz5yTHD5vugb343C2lt/view?usp=sharing"
   },
   {
@@ -180,7 +180,7 @@ const dataSciences = [
   {
     "Nom": "Muno",
     "Prénom": "Julien",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Julien Muno - index.html",
+    "Site web": "",
     "StoryBoard 1": ""
   },
   {
@@ -198,25 +198,25 @@ const dataSciences = [
   {
     "Nom": "Van Nuffel",
     "Prénom": "Nicolas",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Nicolas Van Nuffel - index.html",
+    "Site web": "",
     "StoryBoard 1": ""
   },
   {
     "Nom": "Hardij",
     "Prénom": "Noah",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Noah Hardij - index.html",
+    "Site web": "",
     "StoryBoard 1": ""
   },
   {
     "Nom": "Alhelali",
     "Prénom": "Razan",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Razan Alhelali - index.html",
+    "Site web": "",
     "StoryBoard 1": "https://drive.google.com/file/d/1doFkaoQFr_xaaHX1vSPz7Ya0OS_I5DBa/view?usp=sharing"
   },
   {
     "Nom": "Hustin",
     "Prénom": "Romain",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Romain Hustin - index.html",
+    "Site web": "",
     "StoryBoard 1": ""
   },
   {
@@ -237,7 +237,7 @@ const dataSciences = [
   {
     "Nom": "Restieau",
     "Prénom": "Alicia",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Alicia Restieau - index.html",
+    "Site web": "",
     "StoryBoard 1": ""
   },
   {
@@ -261,13 +261,13 @@ const dataSciences = [
   {
     "Nom": "Vanderuse",
     "Prénom": "Angélique",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Angélique Vanderuse - index.html",
+    "Site web": "",
     "StoryBoard 1": ""
   },
   {
     "Nom": "Murtezi",
     "Prénom": "Artan",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Artan Murtezi - index.html",
+    "Site web": "",
     "StoryBoard 1": "https://drive.google.com/file/d/11QcgtFPjOPsALex7KJ0IwkPHghKlzc_u/view?usp=sharing"
   },
   {
@@ -279,37 +279,37 @@ const dataSciences = [
   {
     "Nom": "Huart",
     "Prénom": "Chelsea",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Chelsea Huart - index.html",
+    "Site web": "",
     "StoryBoard 1": ""
   },
   {
     "Nom": "Cheval",
     "Prénom": "Chloé",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Chloé Cheval - index.html",
+    "Site web": "",
     "StoryBoard 1": ""
   },
   {
     "Nom": "Dernivoy",
     "Prénom": "Chloé",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Chloé Dernivoy - index.html",
+    "Site web": "",
     "StoryBoard 1": ""
   },
   {
     "Nom": "Izere",
     "Prénom": "Esther",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Esther Izere - index.html",
+    "Site web": "",
     "StoryBoard 1": ""
   },
   {
     "Nom": "Acosta Perez",
     "Prénom": "Harold",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Harold Acosta Perez - index.html",
+    "Site web": "",
     "StoryBoard 1": ""
   },
   {
     "Nom": "Morre",
     "Prénom": "Hugo",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Hugo Morre - index.html",
+    "Site web": "",
     "StoryBoard 1": "https://drive.google.com/file/d/1DLX71AT__OavPwrZZNyHDQZ-qANMphv_/view?usp=sharing"
   },
   {
@@ -333,31 +333,31 @@ const dataSciences = [
   {
     "Nom": "Leonard",
     "Prénom": "Nathan",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Nathan Leonard - index.html",
+    "Site web": "",
     "StoryBoard 1": "https://drive.google.com/file/d/1s9liaX0HK_dmBFmro1vgtloej-re5l7X/view?usp=sharing"
   },
   {
     "Nom": "Gil Y Rodriguez",
     "Prénom": "Noah",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Noah Gil Y Rodriguez - index.html",
+    "Site web": "",
     "StoryBoard 1": "https://drive.google.com/file/d/1VZfre1N0CNnOYt_Uajl4w_yG8SN6OUf6/view?usp=sharing"
   },
   {
     "Nom": "Dedobbeleer",
     "Prénom": "Sarah",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Sarah Dedobbeleer - index.html",
+    "Site web": "",
     "StoryBoard 1": ""
   },
   {
     "Nom": "Aibekova",
     "Prénom": "Tinatin",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Tinatin Aibekova - index.html",
+    "Site web": "",
     "StoryBoard 1": ""
   },
   {
     "Nom": "Golard",
     "Prénom": "Wyatt",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Wyatt Golard - index.html",
+    "Site web": "",
     "StoryBoard 1": "https://drive.google.com/file/d/108TOvH8f8ECJFW8G6ESOJ5c-iAAFQamd/view?usp=sharing"
   },
   {
@@ -390,7 +390,7 @@ const dataSciences = [
   {
     "Nom": "Matravolgyi",
     "Prénom": "Elias",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Elias Matravolgyi - index.html",
+    "Site web": "",
     "StoryBoard 1": "https://drive.google.com/file/d/1h_wGuUF_DX92Cf68B2xsMuohPv50pGd7/view?usp=sharing"
   },
   {
@@ -420,13 +420,13 @@ const dataSciences = [
   {
     "Nom": "Naciri",
     "Prénom": "Khanzada",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Khanzada Naciri - index.html",
+    "Site web": "",
     "StoryBoard 1": ""
   },
   {
     "Nom": "François",
     "Prénom": "Ludovic",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Ludovic François - index.html",
+    "Site web": "",
     "StoryBoard 1": ""
   },
   {
@@ -456,13 +456,13 @@ const dataSciences = [
   {
     "Nom": "Bailly",
     "Prénom": "Nicolas",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Nicolas Bailly - index.html",
+    "Site web": "",
     "StoryBoard 1": ""
   },
   {
     "Nom": "Vanhufel",
     "Prénom": "Nicolas",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Nicolas Vanhufel - index.html",
+    "Site web": "",
     "StoryBoard 1": ""
   },
   {
@@ -474,13 +474,13 @@ const dataSciences = [
   {
     "Nom": "Delfosse",
     "Prénom": "Noah",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Noah Delfosse - index.html",
+    "Site web": "",
     "StoryBoard 1": "https://drive.google.com/file/d/1JvBX3nS6izj0ojiw4lP4OPDQuCGE9R2H/view?usp=sharing"
   },
   {
     "Nom": "Lejonc",
     "Prénom": "Orion",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Orion Lejonc - index.html",
+    "Site web": "",
     "StoryBoard 1": ""
   },
   {
@@ -498,7 +498,7 @@ const dataSciences = [
   {
     "Nom": "Guillaume",
     "Prénom": "Romain",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Romain Guillaume - index.html",
+    "Site web": "",
     "StoryBoard 1": "https://drive.google.com/file/d/1XbGhkLUaPisAHCe-Ps3Rs-Krq96HSZKR/view?usp=sharing"
   },
   {
@@ -510,13 +510,13 @@ const dataSciences = [
   {
     "Nom": "Huberty",
     "Prénom": "Timothé",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Timothé Huberty - index.html",
+    "Site web": "",
     "StoryBoard 1": ""
   },
   {
     "Nom": "Janssens",
     "Prénom": "Yanis",
-    "Site web": "https://bendmh-itn.github.io/siteschool/site2eme/Yanis Janssens - index.html",
+    "Site web": "",
     "StoryBoard 1": ""
   }
  ]
